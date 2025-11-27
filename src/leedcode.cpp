@@ -264,7 +264,7 @@ public:
 
 int main()
 {
-	std::cout << "main test begin" << std::endl;
+	// ������ʾ��ȷ
 	Solution* solve = new Solution();
 	vector<int > data = { 1,2,3,3,3,3,4,5};
 	int k = 3;

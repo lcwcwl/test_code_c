@@ -264,6 +264,7 @@ public:
 
 int main()
 {
+	// 中文显示正确
 	Solution* solve = new Solution();
 	vector<int > data = { 1,2,3,3,3,3,4,5};
 	int k = 3;
